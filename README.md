@@ -7,6 +7,7 @@ Parallel concatenate 2 large Structure input files for population genetic analys
 4. Your input Structure files should include one head line (usually locus names)
 
 To run the script,
+
 1. Download 'concatenateStructure.py' file and save it under the folder that has your Structure files. 
 2. Open terminal or command prompt and change path to the folder (using 'cd your_path_to_folder').
 3. Then enter 'python concatenateStructure.py' to execute the script.
