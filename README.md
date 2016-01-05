@@ -1,8 +1,8 @@
 # Parallel-Concatenate-2-Structure-Files
 Parallel concatenate 2 large Structure input files for population genetic analysis.
 
-1. Combine two Structure input files that have different set of loci but have same individuals (or partially same). 
-2. The program will find and output the common samples (individuals) in two Structure files. For example, if one file has sample id A, B, C, D, E, and the other has B, C, D, E, F, the concatenated file will have sample B, C, D, and E. Sample A and F will be excluded.
+1. Combine two Structure input files that have different set of loci but have identical individuals (or partially identical). 
+2. The program will find and output the common individuals (based on sample id) in two Structure files. For example, if one file has sample id A, B, C, D, E, and the other has B, C, D, E, F, the concatenated file will have sample B, C, D, and E. Sample A and F will be excluded.
 3. All the loci from two Structure files will be concatenated. Locus name will not be included. 
 4. Your input Structure files should include one head line (usually locus names)
 
