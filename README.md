@@ -14,3 +14,4 @@ To run the script,
 5. The program will start concatenate two files and print out numbers of loci and individuals in the console.
 
 
+
