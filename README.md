@@ -7,7 +7,7 @@ Note:
 1. All the loci from two STRUCTURE files will be concatenated. Locus or marker name will not be printed in the new file.
 2. Your input STRUCTURE files should include one head line (usually locus name)
 
-How to use:
+[b]How to use:[/b]
 1. Download 'concatenateStructure.py' file and save it under the folder that has your Structure files. 
 2. Open terminal or command prompt and change path to the folder (using 'cd your_path_to_folder').
 3. Then enter 'python concatenateStructure.py' to execute the script.
